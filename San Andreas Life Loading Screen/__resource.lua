@@ -7,11 +7,6 @@ files {
     'LoadingScreen/images/backgroundImg1.jpg',
     'LoadingScreen/images/backgroundImg2.jpg',
     'LoadingScreen/images/backgroundImg3.jpg',
-    'LoadingScreen/images/backgroundImg4.jpg',
-    'LoadingScreen/images/backgroundImg5.jpg',
-    'LoadingScreen/images/backgroundImg6.jpg',
-    'LoadingScreen/images/backgroundImg7.jpg',
-    'LoadingScreen/images/backgroundImg8.jpg',
     --Loading Config File--
     'LoadingScreen/config.json',
     --Loading JS Files--
