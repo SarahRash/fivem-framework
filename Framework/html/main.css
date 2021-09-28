@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 2vh;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+html, body {
+    margin: 0;
+    user-select: none;
+}
+
+body {
+    display: none;
+    height: 100%;
+    box-sizing: border-box;
+    background: url(assets/background.png);
+    background-repeat: no-repeat;
+    background-size: 103%;
+    font-family: 'Sen', sans-serif;
+}
+
+#app {
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    width: 500px;
+    height: 100%;
+    background-color: rgba(17, 17, 17, 0.9);
+    backdrop-filter: blur(10px);
+}
+
+#characters {
+    overflow: auto;
+    display: none;
+}
+
+#delBtn:hover {
+  filter: brightness(0.8);
+}
+
+#createCharBtn:hover {
+  filter: brightness(0.8);
+}
+
+#refreshBtn:hover {
+  filter: brightness(0.8);
+}
+
+#spawns {
+  box-sizing: border-box;
+  overflow: auto;
+  display: none;
+}
+
+.spawn {
+  width: 100%;
+  box-sizing: border-box;
+}
