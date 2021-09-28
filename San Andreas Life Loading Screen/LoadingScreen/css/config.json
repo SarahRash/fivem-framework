@@ -1,0 +1,48 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "30,40,30",
+		"useBackgroundImage" : "false",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Insert Server Name Here",
+		"playAudioInBackground" : "true",
+		"YTVideoID" : "_XspQUK22-U",
+		"videoVolume" : "10"
+	},
+	{
+		"rule1" : "Do not RDM or VDM",
+		"rule2" : "A microphone is a requirement",
+		"rule3" : "Do not abuse/exploit bugs",
+		"rule4" : "any bugs found should be reported to Sarah R. or Nicole H. Immediatly upon descovery",
+		"rule5" : "Do not use cheats",
+        "rule6" : "No racism",
+		"rule7" : "Do not harass others",
+		"rule8" : "Use common sense",
+        "rule9" : "have fun and help others to have fun lets be honest this is the reason we are all here"
+	},
+	{
+		"servers1" : "Teamspeak: *Teamspeak ID*",
+		"servers2" : "Discord: https://discord.gg/7MX42CPNw3"
+    },
+    {
+        "Director" : "Nicole H., Aiden C.",
+        "Deputy Director" : "Tarlin C.",
+        "Assistant Director" : "Ethan W.",
+        "" : "___________________________________________________",
+        "Head of Staff" : "Isaiah K.",
+        "Assistant Head of Staff" : "Darwin S.",
+        "Senior Staff" : "Jason S.",
+        "Staff" : "N/A",
+        "Junior Staff" : "N/A",
+        " " : "___________________________________________________",
+        "Head of Recruitment" : "TheClassicMods",
+        "Assistant Head of Recruitment" : "Scarlett The Furry",
+        "  " : "___________________________________________________",
+        "Head of Development" : "Sarah R.",
+        "Senior Development" : "Aiden C., Tailin C.",
+        "Junior Development" : "N/A"
+    }
+]

@@ -1,0 +1,59 @@
+/*!
+code created by Sarah Rash (Head of San Andreas Life Roleplay Community's Development team)
+
+copyright rights reserved to Solutions Inc.
+
+either contact myself or serena king (owner of Solutions Inc.) for permission/rights to distribute
+*/
+
+body
+{
+	background-color: rgb(255, 0, 0);
+	overflow: hidden;
+}
+
+.backgroundcolour
+{
+	background-color: #fff;
+}
+
+.bold-text
+{
+	font-weight: 450;
+}
+
+.light-text
+{
+	font-weight: 110;
+}
+
+.meme
+{
+	position: fixed;
+    bottom: 0;
+    padding-right: 20px;
+    width: 100%;
+    font-size: 12pt;
+    text-align: right;
+}
+
+#lists > li
+{
+	padding: 10px; 
+	min-height: 2.8em;
+	text-align: left;
+
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+#lists > li:nth-child(even)
+{
+	background-color: rgb(25,25,25);
+}
+
+#lists > li:nth-child(odd)
+{
+	background-color: rgb(30,30,30);
+}
